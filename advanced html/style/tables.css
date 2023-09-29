@@ -1,0 +1,15 @@
+
+table,th,td{
+    border : 1px solid black;
+    border-collapse: collapse;
+           }
+
+.paragraph-1{
+    color: chartreuse;
+            }        
+tr:nth-child(even) { 
+    background-color: blue; 
+                   } 
+ tr:nth-child(odd) {
+    background-color: chartreuse;
+                   }                   
